@@ -9,7 +9,13 @@
 
 #include <stdio.h>
 #include <tchar.h>
-
+#include <iostream>
+#include <string>
+#include <memory>
+#include <windows.h> 
+#include <fstream>
+#include <algorithm>
+#include <functional> 
 
 
 // TODO: W tym miejscu odwo³aj siê do dodatkowych nag³ówków wymaganych przez program
