@@ -1,3 +1,9 @@
 ﻿  MineSweeper.cpp
-  MineSweeper.vcxproj -> C:\Users\User\Source\Repos\MineSweeper\x64\Debug\MineSweeper.exe
-  MineSweeper.vcxproj -> C:\Users\User\Source\Repos\MineSweeper\x64\Debug\MineSweeper.pdb (Partial PDB)
+c:\users\morwi\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(165): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\morwi\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(423): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\morwi\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(578): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\users\morwi\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(583): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\users\morwi\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(590): warning C4244: "argument": konwersja z "const double" do "float", możliwa utrata danych
+c:\users\morwi\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(433): warning C4101: "flag": lokalna zmienna, do której nie istnieje odwołanie
+  MineSweeper.vcxproj -> C:\Users\morwi\documents\visual studio 2017\Projects\MineSweeper\x64\Debug\MineSweeper.exe
+  MineSweeper.vcxproj -> C:\Users\morwi\documents\visual studio 2017\Projects\MineSweeper\x64\Debug\MineSweeper.pdb (Partial PDB)
